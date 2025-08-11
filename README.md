@@ -1,0 +1,2 @@
+# Manufacturing-Optmization-Genetic-Algorithm-Computational-Intelligence
+This project applies Computational Intelligence (CI) techniques — Genetic Algorithms (GA) and Fuzzy Logic — to solve a real-world manufacturing optimization problem. The goal is to maximize profit from producing two types of television sets  while respecting constraints on resources such as man-hours, equipment capacity, and raw materials
